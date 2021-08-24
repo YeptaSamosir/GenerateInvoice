@@ -1,0 +1,16 @@
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\bin\Debug\net5.0\GenerateInvoice.exe
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\bin\Debug\net5.0\GenerateInvoice.deps.json
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\bin\Debug\net5.0\GenerateInvoice.runtimeconfig.json
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\bin\Debug\net5.0\GenerateInvoice.runtimeconfig.dev.json
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\bin\Debug\net5.0\GenerateInvoice.dll
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\bin\Debug\net5.0\ref\GenerateInvoice.dll
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\bin\Debug\net5.0\GenerateInvoice.pdb
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\obj\Debug\net5.0\GenerateInvoice.csproj.AssemblyReference.cache
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\obj\Debug\net5.0\GenerateInvoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\obj\Debug\net5.0\GenerateInvoice.AssemblyInfoInputs.cache
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\obj\Debug\net5.0\GenerateInvoice.AssemblyInfo.cs
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\obj\Debug\net5.0\GenerateInvoice.csproj.CoreCompileInputs.cache
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\obj\Debug\net5.0\GenerateInvoice.dll
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\obj\Debug\net5.0\ref\GenerateInvoice.dll
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\obj\Debug\net5.0\GenerateInvoice.pdb
+C:\Users\Pluginnnnn\source\repos\Metrodata\GenerateInvoice\GenerateInvoice\obj\Debug\net5.0\GenerateInvoice.genruntimeconfig.cache
